@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Course Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+    <h1>MyCourses</h1>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#courses">Courses</a></li>
+        <li><a href="#auth">Login</a></li>
+    </ul>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero">
+    <h2>Learn Skills Online</h2>
+    <p>Join thousands of students and upgrade your skills</p>
+    <button>Explore Courses</button>
+</section>
+
+<!-- Courses Section -->
+<section id="courses" class="courses">
+    <h2>Our Courses</h2>
+
+    <div class="course-container">
+        <div class="card">
+            <h3>Web Development</h3>
+            <p>Learn HTML, CSS, JS</p>
+            <span>$50</span>
+            <button>Enroll</button>
+        </div>
+
+        <div class="card">
+            <h3>Python Basics</h3>
+            <p>Start coding in Python</p>
+            <span>$40</span>
+            <button>Enroll</button>
+        </div>
+
+        <div class="card">
+            <h3>Graphic Design</h3>
+            <p>Learn Canva & Photoshop</p>
+            <span>$30</span>
+            <button>Enroll</button>
+        </div>
+    </div>
+</section>
+
+<!-- Auth Section -->
+<section id="auth" class="auth">
+    <!-- LOGIN -->
+<form action="/login" method="POST" class="form-box">
+    <h2>Login</h2>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="password" name="password" placeholder="Password" required>
+    <button type="submit">Login</button>
+</form>
+
+<!-- SIGNUP -->
+<form action="/signup" method="POST" class="form-box">
+    <h2>Signup</h2>
+    <input type="text" name="username" placeholder="Username" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="password" name="password" placeholder="Password" required>
+    <button type="submit">Signup</button>
+</form>
+</section>
+
+
+<!-- Footer -->
+<footer>
+    <p>© 2026 MyCourses | All Rights Reserved</p>
+</footer>
+
+
+</body>
+</html>
