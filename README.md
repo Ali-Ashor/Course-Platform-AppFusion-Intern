@@ -79,7 +79,7 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 <img width="1353" height="446" alt="image" src="https://github.com/user-attachments/assets/fb1fe03e-2ddf-4cda-8d5e-db74554f5ab8" />
 
