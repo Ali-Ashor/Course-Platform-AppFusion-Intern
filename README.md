@@ -109,11 +109,12 @@ Feel free to fork this project and improve it.
 
 This project is for educational purposes.
 
-
-                                                  ----Thank You So Much!----
+---
 
 ## 👨‍💻 Author
 
 Developed by **Shujaat Ali**
 
 ---
+
+                                                      ----Thank You So Much!----
