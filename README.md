@@ -85,11 +85,7 @@ http://localhost:3000
 
 <img width="1347" height="380" alt="image" src="https://github.com/user-attachments/assets/b6ac9ac0-3bac-4f4b-a3aa-9ae1a107e51f" />
 
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df781422-10f5-4fb1-b3c7-41dc1d7dfb63" />
-
-
-
+<img width="1351" height="515" alt="image" src="https://github.com/user-attachments/assets/b3d899cc-412a-48eb-b4ef-0b8b76c7e683" />
 
 ---
 
