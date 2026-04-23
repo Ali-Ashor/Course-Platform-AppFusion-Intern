@@ -48,7 +48,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/course-platform.git
+git clone [https://github.com/your-username/course-platform.git](https://github.com/Ali-Ashor/Course-Platform-AppFusion-Intern.git)
 cd course-platform
 ```
 
