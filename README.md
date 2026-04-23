@@ -69,17 +69,6 @@ node server.js
 ```
 http://localhost:3000
 ```
-
----
-
-## 🧪 Demo Data (Important)
-
-To add sample courses, open:
-
-```
-http://localhost:3000/add-demo
-```
-
 ---
 
 ## 📌 How It Works
@@ -121,6 +110,6 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Shujaat Ali**
 
 ---
